@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.example.poc.runner&apos; to &apos;com.example.poc.producer&apos;&#x0D;&#x0A;- Original project: &apos;SpringBootJMConsumer&apos;&#x0D;&#x0A;- Original element: &apos;SpringBootJMConsumer/src/main/java/com.example.poc.runner&apos;&#x0D;&#x0A;- Renamed element: &apos;SpringBootJMConsumer/src/main/java/com.example.poc.producer&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.example.poc.runner&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.poc.runner" name="com.example.poc.producer" qualified="false" references="true" stamp="1630946094517" textual="false" version="1.0"/>
+</session>

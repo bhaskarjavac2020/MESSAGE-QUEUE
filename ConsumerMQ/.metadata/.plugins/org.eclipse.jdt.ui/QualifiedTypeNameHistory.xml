@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.jms.annotation.EnableJms"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.jms.annotation.JmsListener"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+</qualifiedTypeNameHistroy>

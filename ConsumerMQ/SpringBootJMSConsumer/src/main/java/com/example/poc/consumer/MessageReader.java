@@ -1,0 +1,16 @@
+package com.example.poc.consumer;
+
+import org.springframework.jms.annotation.JmsListener;
+import org.springframework.stereotype.Component;
+
+@Component
+public class MessageReader {
+	
+	//@Value("${my.mq.desti-name}")
+	//private String destinationName;
+	
+	@JmsListener(destination ="${my.mq.desti-name}" )
+	public void readMsg(String message) {
+		System.out.println("Data at consumer file :"+message);
+	}
+}

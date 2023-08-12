@@ -1,0 +1,8 @@
+package com.example.poc.consumer;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class MessageReader {
+	pubic void readMsg
+}
